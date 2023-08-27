@@ -21,7 +21,7 @@ const SrHeader = props => {
 
             <div className="sr-header">
                 <div className="sr-word-phonetic">
-                    <div className="sr-word">{word}</div>
+                    <h1 className="sr-word">{word}</h1>
                     <div className="sr-phonetic">{phonetic}</div>
                 </div>
                 <div className='right'>
