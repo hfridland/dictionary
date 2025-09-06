@@ -1,6 +1,6 @@
 # Frontend Mentor - Dictionary web app solution
 
-This is a solution to the [Dictionary web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Dictionary web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,8 +12,6 @@ This is a solution to the [Dictionary web app challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,9 +30,13 @@ Users should be able to:
 - **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
 
 ### Screenshots
+
 #### Light
+
 ![](./screenshotLight.png)
+
 #### Dark
+
 ![](./screenshotDark.png)
 
 ### Links
@@ -56,5 +58,5 @@ Users should be able to:
 
 ## Author
 
-- Email - [Add your name here](mailto:hfridland@shaw.ca)
+- Email - [Add your name here](mailto:hfridland@gmail.com)
 - Frontend Mentor - [@hfridland](https://www.frontendmentor.io/profile/hfridland)
