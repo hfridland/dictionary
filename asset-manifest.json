@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dictionary/static/css/main.d2c236c9.css",
-    "main.js": "/dictionary/static/js/main.6b24f580.js",
+    "main.css": "/dictionary/static/css/main.8a9fd1f3.css",
+    "main.js": "/dictionary/static/js/main.ef433c9c.js",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/dictionary/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
     "static/media/Inconsolata-VariableFont_wdth,wght.ttf": "/dictionary/static/media/Inconsolata-VariableFont_wdth,wght.1f56ee050cf1f63c7314.ttf",
     "static/media/Inter-Bold.ttf": "/dictionary/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
@@ -19,11 +19,11 @@
     "static/media/icon-search.svg": "/dictionary/static/media/icon-search.13357ba7763bb4388cba203d0388c375.svg",
     "static/media/icon-play.svg": "/dictionary/static/media/icon-play.a659db0104303a8b8ae071e0cf90119d.svg",
     "static/media/icon-arrow-down.svg": "/dictionary/static/media/icon-arrow-down.aa902848ffe2b4ed5369.svg",
-    "main.d2c236c9.css.map": "/dictionary/static/css/main.d2c236c9.css.map",
-    "main.6b24f580.js.map": "/dictionary/static/js/main.6b24f580.js.map"
+    "main.8a9fd1f3.css.map": "/dictionary/static/css/main.8a9fd1f3.css.map",
+    "main.ef433c9c.js.map": "/dictionary/static/js/main.ef433c9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2c236c9.css",
-    "static/js/main.6b24f580.js"
+    "static/css/main.8a9fd1f3.css",
+    "static/js/main.ef433c9c.js"
   ]
 }
