@@ -1,17 +1,19 @@
-@import "font.css";
+@import 'font.css';
 
 .filter_dark_color {
-  filter: invert(52%) sepia(78%) saturate(6766%) hue-rotate(258deg) brightness(97%) contrast(90%);
+  filter: invert(52%) sepia(78%) saturate(6766%) hue-rotate(258deg)
+    brightness(97%) contrast(90%);
 }
 
 .filter_light_color {
-  filter: invert(0%) sepia(6%) saturate(22%) hue-rotate(242deg) brightness(105%) contrast(106%);
+  filter: invert(0%) sepia(6%) saturate(22%) hue-rotate(242deg) brightness(105%)
+    contrast(106%);
 }
 
 .logo_color {
-  filter: invert(48%) sepia(1%) saturate(0%) hue-rotate(77deg) brightness(94%) contrast(90%);
+  filter: invert(48%) sepia(1%) saturate(0%) hue-rotate(77deg) brightness(94%)
+    contrast(90%);
 }
-
 
 body[data-theme='dark'] {
   --icon-color: #a445ed;
@@ -52,7 +54,6 @@ body[data-font='mono'] {
   --bodyM: 18px 'InconsolataRegular';
   --bodyS: 14px 'InconsolataRegular';
 }
-
 
 body {
   margin: 0 10px;
@@ -101,7 +102,7 @@ body {
         }
         .divider {
           width: 0;
-          border: solid 1px #E9E9E9;
+          border: solid 1px #e9e9e9;
           margin-right: 26px;
         }
       }
@@ -109,6 +110,7 @@ body {
   }
   .team-switcher {
     display: flex;
+    cursor: pointer;
     .team-switcher-rectangle {
       width: 34px;
       height: 14px;
@@ -226,7 +228,6 @@ body {
       }
     }
   }
-
 }
 
 %base-error {
@@ -235,12 +236,12 @@ body {
 
 .error {
   font: var(--bodyS);
-  @extend %base-error
+  @extend %base-error;
 }
 
 .requestError {
   font: var(--headingS);
-  @extend %base-error
+  @extend %base-error;
 }
 
 .loading {
